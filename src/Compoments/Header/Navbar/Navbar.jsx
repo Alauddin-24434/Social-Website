@@ -28,11 +28,11 @@ const Navbar = () => {
             </li>
             <li>
                 <NavLink
-                    to="/other"
+                    to="/newsFeed"
                     className="nav-link"
                     activeClassName="active-link"
                 >
-                    Other Page
+                   News Feed
                 </NavLink>
             </li>
         </>
